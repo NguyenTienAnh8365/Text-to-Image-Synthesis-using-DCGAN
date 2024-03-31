@@ -15,11 +15,11 @@ Eg:
 
 This small bird has a pink breast and crown, and black primaries and secondaries:
 
-![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/89ca7b06-96da-4b08-9a86-646df9f31079)
+![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/6de520ce-93ef-425c-ab72-a80b7673bc63)
 
 The flower has petals that are bright pinkish purple with while stigma:
 
-![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/38561af4-d040-448e-81a0-fd7631625b72)
+![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/a5dd7a12-8364-45de-bb9a-03a3ea1ea342)
 
 In this article, I use DCgan in combination with Embedding of the input text to create the desired data.
 
