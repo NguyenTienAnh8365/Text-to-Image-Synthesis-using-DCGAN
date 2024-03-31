@@ -78,7 +78,7 @@ The text description is converted from a vector to a tensor corresponding to the
 
 ![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/a313b675-b4e5-45b2-9e4d-8e26c9cc1183)
 
-Add additional embedded embedded images to describe images into real images, into the network to discriminate to help improve the ability to distinguish the context of the model.
+Add additional embedded text to describe images into real images, into the network to discriminate to help improve the ability to distinguish the context of the model.
 
 ![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/95e69474-d954-44fc-b3c1-884bb7dab4aa)
 
