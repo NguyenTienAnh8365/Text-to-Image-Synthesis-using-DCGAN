@@ -13,7 +13,7 @@ Applications of Text-to-Image Synthesis may include:
 
 Eg:
 
-This small bird has a pink breast and crown, and black primaries and secondaries:
+This small bird has a brown breast and crown, and black primaries and secondaries:
 
 ![image](https://github.com/NguyenTienAnh8365/Text-to-Image-Synthesis-using-DCGAN/assets/153089067/6de520ce-93ef-425c-ab72-a80b7673bc63)
 
